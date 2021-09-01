@@ -1,2 +1,2 @@
 # Sample
-Sample repo to test CommitStream test
+Sample repo to test CommitStream
